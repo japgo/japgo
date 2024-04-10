@@ -7,7 +7,7 @@
 
 ### Projects  
 - SSD Inline Test Handler 제어 SW개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/ssdinline.md)  
-- 휴대폰 LCD 검사 Handler 제어 SW개발 [[🔗About]]()
+- 휴대폰 LCD 검사 Handler 제어 SW개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/lcdtest.md)
 - SLT( System Level Test ) Handler SW개발 [[🔗About]]()  
 - Device Merge & Sort Handler 제어 SW개발 [[🔗About]]()  
 - Prober Handler 제어 SW개발 [[🔗About]]()  
