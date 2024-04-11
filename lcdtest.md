@@ -1,4 +1,4 @@
-### LCD 표면 검사 Handler 개발
+### LCD 외관 검사 Handler 개발
 ---
 #### 사용 기술
 * ![C/C++](https://img.shields.io/badge/C++-brown.svg?style=flat&logo=cplusplus&logoColor=white),
@@ -8,18 +8,17 @@
 #
 
 #### 주요 내용
-* 전 공정에서 전달된 LCD 표면 검사 진행.
-* 
-* 분류, 라벨 부착, 테스트, 비전 검사 총 4개 장비를 inline 형식으로 연결.
+* Vision 검사를 통해 Display Module 및 Cover glass의 외관 불량을 자동으로 검사.
+* 수동 육안 검사 대비 수율/품질 향상
+* 불량 Data 축적 및 관리, 검사 인력 최소화.
+* CIM Program 연동하여 공장 자동화 및 Inline 생산 최적화.
 #
 
 #### 담당 업무
-* 분류 Handler 메인 모션 시퀀스 개발
-* Host와 통신 및 정보 처리 기능 개발
-* 장비 제어 UI(C#, MFC) 개발
+* 장비 제어 관련 부가 기능 개발.
+* 장비 제어 UI(C#) 개발
 #
 
 #### 주요 실적
-* 시간당 1200개 검사 가능.
-* Hynix 이천 공장 납품 후 양산 진행.
+* 삼성 디스플레이 (베트남) 납품 후 양산 진행 중.
 #
