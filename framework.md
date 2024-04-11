@@ -2,6 +2,7 @@
 ---
 #### 사용 기술
 * ![C/C++](https://img.shields.io/badge/C++-brown.svg?style=flat&logo=cplusplus&logoColor=white),
+  ![C#](https://img.shields.io/badge/CSharp-brown.svg?style=flat&logo=csharp&logoColor=white)
 #
 
 #### 주요 내용
