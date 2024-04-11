@@ -25,4 +25,7 @@
 ![JAVA](https://img.shields.io/badge/Java-orange.svg?style=flat&logo=openjdk&logoColor=white)  
 ![MSSQL](https://img.shields.io/badge/MSSQL-blue.svg?style=flat&logo=mssql&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MYSQL-blue.svg?style=flat&logo=mysql&logoColor=white)
-![Sqlite](https://img.shields.io/badge/Sqlite-blue.svg?style=flat&logo=sqlite&logoColor=white)
+![Sqlite](https://img.shields.io/badge/Sqlite-blue.svg?style=flat&logo=sqlite&logoColor=white)  
+![Windows](https://img.shields.io/badge/Windows-1234.svg?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1234.svg?style=flat&logo=linux&logoColor=white)
+
