@@ -6,6 +6,7 @@
 ---
 
 ### Projects  
+- 장비 제어 SW Framework 개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/framework.md)  
 - SSD Inline Test Handler 제어 SW개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/ssdinline.md)  
 - 휴대폰 LCD 외관 검사 Handler 제어 SW개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/lcdtest.md)
 - SLT( System Level Test ) Handler SW개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/slt.md)  
