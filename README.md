@@ -29,6 +29,7 @@
 ![Sqlite](https://img.shields.io/badge/Sqlite-blue.svg?style=flat&logo=sqlite&logoColor=white)  
 ![GIT](https://img.shields.io/badge/GIT-red.svg?style=flat&logo=GIT&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-red.svg?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-red.svg?style=flat&logo=Confluence&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/BitBucket-red.svg?style=flat&logo=BitBucket&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-red.svg?style=flat&logo=Jenkins&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-red.svg?style=flat&logo=SonarQube&logoColor=white)  
