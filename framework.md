@@ -5,7 +5,9 @@
 #
 
 #### 주요 내용
-* 
+* 장비 공통 제어 Framework 구조 설계
+  * <img width="500" alt="image" src="https://github.com/japgo/japgo/assets/4969208/6f8bc180-dba2-4dc2-9ef7-026cc1e2dc29">
+
 #
 
 #### 담당 업무
