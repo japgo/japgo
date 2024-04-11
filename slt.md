@@ -4,7 +4,8 @@
 * ![C/C++](https://img.shields.io/badge/C++-brown.svg?style=flat&logo=cplusplus&logoColor=white),
   ![MFC](https://img.shields.io/badge/MFC-darkgreen.svg?style=flat&logo=mfc&logoColor=white),
   ![xCom](https://img.shields.io/badge/xCom-darkgreen.svg?style=flat&logo=xcom&logoColor=white),
-  ![Sqlite](https://img.shields.io/badge/Sqlite-blue.svg?style=flat&logo=sqlite&logoColor=white)
+  ![Sqlite](https://img.shields.io/badge/Sqlite-blue.svg?style=flat&logo=sqlite&logoColor=white),
+  ![Windows](https://img.shields.io/badge/Windows-orange.svg?style=flat&logo=windows&logoColor=white)
 #
 
 #### 주요 내용
@@ -12,6 +13,7 @@
 #
 
 #### 담당 업무
+* 서브 개발자.
 * 장비 제어 시퀀스 개발.
   * 기본적인 자재 송, 수신 시퀀스 개발
   * 앞 공정, 후 공정과 연계한 PIO 통신 기능 구현.
