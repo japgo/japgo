@@ -26,6 +26,10 @@
 ![MSSQL](https://img.shields.io/badge/MSSQL-blue.svg?style=flat&logo=mssql&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MYSQL-blue.svg?style=flat&logo=mysql&logoColor=white)
 ![Sqlite](https://img.shields.io/badge/Sqlite-blue.svg?style=flat&logo=sqlite&logoColor=white)  
+![JIRA](https://img.shields.io/badge/JIRA-red.svg?style=flat&logo=jira&logoColor=white)
+![BitBucket](https://img.shields.io/badge/BitBucket-red.svg?style=flat&logo=BitBucket&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-red.svg?style=flat&logo=Jenkins&logoColor=white)  
+![CMMI](https://img.shields.io/badge/CMMI-1234.svg?style=flat&logo=CMMI&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-1234.svg?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-1234.svg?style=flat&logo=linux&logoColor=white)
 
