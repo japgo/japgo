@@ -12,7 +12,7 @@
 - Device Merge & Sort Handler 제어 SW개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/ms100.md)  
 - Prober Handler 제어 SW개발 [[🔗About]]()  
 - Strip Test Handler 제어 SW개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/strip.md)
-- Solder Ball Attach Meahcine 제어 SW개발 [[🔗About]]()  
+- Solder Ball Attach Meahcine 제어 SW개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/solderball.md)  
 - LED Chip Mount Hander 제어 SW개발 [[🔗About]]()  
 
 <!-- - SLT( System Level Test ) Handler SW개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/slt.md)  -->
