@@ -35,5 +35,10 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-red.svg?style=flat&logo=SonarQube&logoColor=white)  
 ![CMMI](https://img.shields.io/badge/CMMI-1234.svg?style=flat&logo=CMMI&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-1234.svg?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1234.svg?style=flat&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1234.svg?style=flat&logo=linux&logoColor=white)  
+
+---
+
+### Motion, Driver
+* RS Automation( MMC ), 미쯔비시
 
