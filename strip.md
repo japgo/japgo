@@ -32,4 +32,6 @@
 * Sandisk 납품 후 양산 진행 중.
 #
 
+![image](https://github.com/japgo/japgo/assets/4969208/8fa380ca-020e-4ae0-9245-f325f41f0a7e)
+
 
