@@ -2,8 +2,7 @@
 * 2013년부터 반도체 관련 장비 제어 SW 개발을 하고 있습니다.
 * 장비 제어 및 공장 자동화 ( SECS/GEM ) 업무를 담당하고 있습니다.
 * 새로운 것에 관심이 많습니다!
-
----
+#
 
 ### Projects  
 - 장비 제어 SW Framework 개발 v1 [[🔗About]](https://github.com/japgo/japgo/blob/master/framework.md)  
@@ -15,9 +14,8 @@
 - Strip Test Handler 제어 SW개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/strip.md)
 - Solder Ball Attach Meahcine 제어 SW개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/solderball.md)  
 - LED Chip Mount Hander 제어 SW개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/ledchipmount.md)  
-
 <!-- - SLT( System Level Test ) Handler SW개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/slt.md)  -->
----
+#
 
 ### Skills  
 ![C/C++](https://img.shields.io/badge/C++-brown.svg?style=flat&logo=cplusplus&logoColor=white)
@@ -37,9 +35,8 @@
 ![CMMI](https://img.shields.io/badge/CMMI-1234.svg?style=flat&logo=CMMI&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-1234.svg?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-1234.svg?style=flat&logo=linux&logoColor=white)  
+#
 
----
-
-### Motion, Driver
-* RS Automation( MMC ), 미쯔비시
+### Side Project
+- SECS-Driver [[🔗About]](https://github.com/SIDEKICK-KR/SECS-Driver)
 
