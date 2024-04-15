@@ -1,7 +1,7 @@
-### Strip Test Handler 제어SW 개발
+### 🔹 Strip Test Handler 제어SW 개발
 * 2015-07-01 ~ 2016-07-01
 ---
-#### 사용 기술
+#### 💡 사용 기술
 * ![C/C++](https://img.shields.io/badge/C++-brown.svg?style=flat&logo=cplusplus&logoColor=white),
   ![C#](https://img.shields.io/badge/CSharp-brown.svg?style=flat&logo=csharp&logoColor=white),
   ![xCom](https://img.shields.io/badge/xCom-darkgreen.svg?style=flat&logo=xcom&logoColor=white),
@@ -9,14 +9,14 @@
   ![Windows](https://img.shields.io/badge/Windows-orange.svg?style=flat&logo=windows&logoColor=white)
 #
 
-#### 주요 내용
+#### 📌 주요 내용
 * Strip 단위 Test Handling.
 * Vision을 이용한 Strip Align.
 * Contact 정밀도 +- 20um 이내.
 * CIM Program 연동하여 공장 자동화.
 #
 
-#### 담당 업무
+#### ✅ 담당 업무
 * 메인 개발자.
 * 장비 제어 Framework 개발.
   * 장비 제어에 공통적인 부분을 Framework로 제작하여 다른 프로젝트에서도 사용 가능하도록 개발 함.
@@ -28,7 +28,7 @@
   - 모션 동작 시 실시간으로 현재 위치 및 이동 경로 파악 후 Collision Check 진행 할 수 있도록 기능 개발.
 #
 
-#### 주요 실적
+#### ⭕️ 주요 실적
 * Sandisk 납품 후 양산 진행 중.
 #
 
