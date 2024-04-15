@@ -1,4 +1,4 @@
-### 🔹 장비 제어 SW Framework 개발
+### 🔹 장비 제어 SW Framework 개발 v1
 ---
 #### 💡 사용 기술
 * ![C/C++](https://img.shields.io/badge/C++-brown.svg?style=flat&logo=cplusplus&logoColor=white),
