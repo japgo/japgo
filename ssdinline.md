@@ -1,4 +1,4 @@
-### 🔹 SSD Inline Test Handler 개발
+### 🔹 SSD Inline Test Handler 제어 SW 개발
 ---
 #### 💡 사용 기술
 * ![C/C++](https://img.shields.io/badge/C++-brown.svg?style=flat&logo=cplusplus&logoColor=white),
