@@ -10,7 +10,7 @@
 - SSD Inline Test Handler 제어 SW 개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/ssdinline.md)
 - 80 Para SSD Test Handler 제어 SW 개발[[🔗About]](https://github.com/japgo/japgo/blob/master/sd100.md)
 - 휴대폰 LCD 외관 검사 Handler 제어 SW 개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/lcdtest.md)
-- Device Merge & Sort Handler 제어 SW 개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/ms100.md)  
+- LOT Merge & Sort Handler 제어 SW 개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/ms100.md)  
 - Probe Handler 제어 SW 개발 [[🔗About]]()  
 - Strip Test Handler 제어 SW 개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/strip.md)
 - Solder Ball Attach Machine 제어 SW 개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/solderball.md)  
