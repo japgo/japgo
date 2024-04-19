@@ -8,7 +8,7 @@
 - 장비 제어 SW Framework 개발 v1 [[🔗About]](https://github.com/japgo/japgo/blob/master/framework.md)  
 - 장비 제어 SW Framework 개발 v2 [[🔗About]](https://github.com/japgo/japgo/blob/master/framework.md)  
 - SSD Inline Test Handler 제어 SW 개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/ssdinline.md)
-- SSD Tester 제어 SW 개발[[🔗About]](https://github.com/japgo/japgo/blob/master/sd100.md)
+- 80 Para SSD Test Handler 제어 SW 개발[[🔗About]](https://github.com/japgo/japgo/blob/master/sd100.md)
 - 휴대폰 LCD 외관 검사 Handler 제어 SW 개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/lcdtest.md)
 - Device Merge & Sort Handler 제어 SW 개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/ms100.md)  
 - Prober Handler 제어 SW 개발 [[🔗About]]()  
