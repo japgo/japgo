@@ -14,7 +14,7 @@
 - Prober Handler 제어 SW 개발 [[🔗About]]()  
 - Strip Test Handler 제어 SW 개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/strip.md)
 - Solder Ball Attach Meahcine 제어 SW 개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/solderball.md)  
-- LED Chip Mount Hander 제어 SW 개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/ledchipmount.md)  
+- LED Chip Mount Hander 제어 SW 개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/ledchipmount.md)
 <!-- - SLT( System Level Test ) Handler SW 개발 [[🔗About]](https://github.com/japgo/japgo/blob/master/slt.md)  -->
 #
 
