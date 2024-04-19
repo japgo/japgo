@@ -1,4 +1,4 @@
-### 🔹 LCD 외관 검사 Handler 개발
+### 🔹 휴대폰 LCD 외관 검사 Handler 제어 SW 개발
 ---
 #### 💡 사용 기술
 * ![C/C++](https://img.shields.io/badge/C++-brown.svg?style=flat&logo=cplusplus&logoColor=white),
